@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Header, Content,Left, Body, Right, Title, Tab, Tabs } from 'native-base';
+import { Container, Header, Left, Body, Right, Title, Tab, Tabs } from 'native-base';
 import Tab1 from './tabs/tab1';
 import Tab2 from './tabs/tab2';
 import Tab3 from './tabs/tab3';

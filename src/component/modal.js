@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Dimensions, Modal, Share } from 'react-native';
 import WebView from 'react-native-webview';
-import {Container, Header, Content, Body, Left, Icon, Right, Title, Button} from 'native-base';
+import {Container, Header, Content, Body, Icon, Left, Right, Title, Button} from 'native-base';
+
 
 const webViewHeight = Dimensions.get('window').height - 56;
 
